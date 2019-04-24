@@ -22,5 +22,13 @@
   "bugs": {
     "url": "https://github.com/powerofheart/powerofheart-server/issues"
   },
-  "homepage": "https://github.com/powerofheart/powerofheart-server#readme"
+  "homepage": "https://github.com/powerofheart/powerofheart-server#readme",
+  "dependencies": {
+    "apollo-server": "^2.4.8",
+    "dotenv": "^7.0.0",
+    "graphql": "^14.2.1",
+    "pg": "^7.10.0",
+    "postgraphile": "^4.3.3",
+    "postgraphile-apollo-server": "^0.1.0"
+  }
 }
