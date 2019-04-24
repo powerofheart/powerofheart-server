@@ -1,0 +1,26 @@
+{
+  "name": "powerofheart-server",
+  "version": "1.0.0",
+  "description": "the server behind the power of heart",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/powerofheart/powerofheart-server.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "graphql",
+    "apollo",
+    "sass"
+  ],
+  "author": "Tang, Noah Lee, Christian Niedermayer, Shane Taylor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/powerofheart/powerofheart-server/issues"
+  },
+  "homepage": "https://github.com/powerofheart/powerofheart-server#readme"
+}
